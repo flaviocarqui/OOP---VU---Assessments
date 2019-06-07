@@ -1,4 +1,4 @@
-# VU---Assessment-
+# Object Oriented Programming 
 Advanced Object Oriented Programming [OOP]   Assessment 2      
 echo "# VU---Assessment-" >> README.md
 
